@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #21e6c1;
+  height: 100%;
+}
+
+code {
+  font-family: courier,arial,helvetica;;
+}
+
+
+.ag-row-hover {
+  /* putting in !important so it overrides the theme's styling as it hovers the row also */
+  background-color: #21e6c1 !important;
+}
+
+.ag-column-hover {
+  background-color: #278ea5;
+}

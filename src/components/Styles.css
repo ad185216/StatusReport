@@ -1,0 +1,36 @@
+.headerCSS
+{
+    width:100%;
+    color: white;
+}
+
+.tableCSS
+{
+    width:auto;
+    height:auto;
+    
+}
+
+.exportBtnCSV
+{
+    padding:10px;
+    float:right;
+}
+
+.tableDIV
+{
+    position: relative;
+    top:-17px;
+}
+.pageLbl
+{
+    color: white;
+    margin-left:20px;
+}
+#root {
+    height:100%;
+  }
+
+  body, html {
+    height: 100%;
+  }
